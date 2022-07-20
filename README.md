@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vineetha Karakavalasa</h1>
 <h3 align="center">An aspiring devops engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="coding" width="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetha-1&label=Profile%20views&color=0e75b6&style=flat" alt="vineetha-1" /> </p>
 
 
